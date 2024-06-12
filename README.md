@@ -44,9 +44,7 @@
         <br/>
         <br/>
         <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white"/>
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Amazonaws-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
     </div>
 </p>
     <br/>
