@@ -43,7 +43,7 @@
         <b>🚀 # Cloud & Deploy 🚀</b>
         <br/>
         <br/>
-        <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=git&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=git&logoColor=white"/>
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
     </div>
 </p>
