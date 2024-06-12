@@ -22,7 +22,7 @@
        <br/>
        <br/>
        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-       <img src="https://img.shields.io/badge/CSS3-1572B66?style=flat-square&logo=CSS3&logoColor=white"/>
+       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
        <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white"/>
        <br/>
        <br/>
