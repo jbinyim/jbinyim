@@ -47,4 +47,13 @@
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
     </div>
 </p>
+<p>
+    <div align="center">
+        <b>📣 # messenger 📣</b>
+        <br/>
+        <br/>
+        <img src="https://img.shields.io/badge/slack-4A154B?style=flat-square&logo=git&logoColor=white"/>
+        <img src="https://img.shields.io/badge/discord-5865F2?style=flat-square&logo=firebase&logoColor=white"/>
+    </div>
+</p>
     <br/>
